@@ -3,7 +3,7 @@ import { defineConfig } from 'vite'
 import tailwindcss from 'tailwindcss'
 
 export default defineConfig({
-    base:"/razorpay-clone/",
+    base:"/discord-clone/",
     css: {
     postcss: {
       plugins: [tailwindcss()],
