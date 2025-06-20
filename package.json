@@ -1,5 +1,5 @@
 {
-  "homepage": "https://laxman-wadekar.github.io/dicord-clone/",
+  "homepage": "https://laxman-wadekar.github.io/discord-clone/",
   "scripts": {
     "start": "vite",
     "build": "vite build",
